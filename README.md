@@ -18,9 +18,5 @@
 
 [![Homepage](https://img.shields.io/badge/Visit%20my%20website-haukesomm.de-121d44)](https://haukesomm.de)
 
-I'm a professional full-stack software engineer based in the heart of Hamburg, Germany. Focusing on web technologies, 
-I am passionate about building high-quality software that is easy to maintain and fun to use. Additionally, I'm a 
-dedicated advocate for free and open-source software, as well as an open web.
-
-In my personal life, I enjoy exploring new places, both locally and abroad, taking care of my plants, and playing games 
-on my Nintendo Switch. Also, I'm interested in sustainable and community-focused urban development.
+I’m a professional software engineer from Hamburg, Germany, passionate about building high-quality software. 
+I particularly enjoy working on free and open-source projects, both for the web and offline-use.
