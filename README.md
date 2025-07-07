@@ -18,5 +18,5 @@
 
 [![Homepage](https://img.shields.io/badge/Visit%20my%20website-haukesomm.de-121d44)](https://haukesomm.de)
 
-I’m a professional software engineer from Hamburg, Germany, passionate about building high-quality software. 
-I particularly enjoy working on free and open-source projects, both for the web and offline-use.
+I’m a professional software engineer passionate about high-quality software, design patterns and clean code.
+I particularly enjoy working on free and open-source projects.
